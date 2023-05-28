@@ -6,7 +6,7 @@ const dbConfig = {
     PORT: '3306',
     USER: 'root',
     PASSWORD: 'Devils@dvocate007',
-    DB: 'cab5',
+    DB: 'quickways',
     dialect: 'mysql' as Dialect,
 
     pool: {

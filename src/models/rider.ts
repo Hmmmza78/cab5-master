@@ -14,7 +14,7 @@ export type RiderDocument = Document & {
 }
 
 
-const riderSchema = sequelize.define("users",
+const riderSchema = sequelize.define("riders",
     {
         firstName: {
             type: DataTypes.STRING,
